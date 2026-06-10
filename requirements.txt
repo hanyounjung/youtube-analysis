@@ -8,3 +8,5 @@ matplotlib
 konlpy
 beautifulsoup4
 lxml
+isodate
+scikit-learn
